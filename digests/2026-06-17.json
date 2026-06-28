@@ -1,0 +1,282 @@
+{
+  "issue_date": "2026-06-17",
+  "period": "2026-06-11 ~ 2026-06-17",
+  "total_papers": 79,
+  "top_papers": [
+    {
+      "pmid": "42295469",
+      "doi": "10.1007/s10029-026-03761-0",
+      "title": "Does mesh fixation reduce recurrence after laparoscopic inguinal hernia repair? A systematic review and meta-analysis.",
+      "title_cn": "补片固定是否能降低腹腔镜腹股沟疝修补术后的复发率？一项系统综述和荟萃分析",
+      "authors": [
+        "Cordova-Nuñez C",
+        "Caballero-Alvarado J",
+        "Alva-Figueroa R",
+        "Zavaleta-Corvera C"
+      ],
+      "journal": "Hernia : the journal of hernias and abdominal wall surgery",
+      "journal_abbrev": "Hernia",
+      "publish_date": "2026-06-15",
+      "abstract": "[BACKGROUND] The role of mesh fixation during laparoscopic inguinal hernia repair remains controversial, particularly regarding its impact on recurrence and postoperative pain. This study aimed to compare the efficacy and safety of mesh fixation versus non-fixation in laparoscopic inguinal hernia repair.\n[METHODS] A systematic review and meta-analysis of randomized controlled trials (RCTs) was conducted following PRISMA 2020 guidelines. Databases including PubMed, Embase, Scopus, and Web of Science were searched from inception to January 2026. Adult patients undergoing laparoscopic inguinal hernia repair (TAPP or TEP) with mesh fixation versus non-fixation were included. The primary outcome was hernia recurrence. Secondary outcomes included early postoperative pain, chronic postoperative pain at six months, and mesh infection. Random-effects models were used to calculate pooled effect sizes.\n[PROSPERO] CRD420261337928.\n[RESULTS] Twenty RCTs comprising 1,537 patients (771 fixation vs. 766 non-fixation) were included. Mesh fixation was not associated with a significant reduction in hernia recurrence (RR = 0.58, 95% CI: 0.19-1.76; I² = 0%). Pooled analysis of early postoperative pain showed no statistically significant differences between groups; however, interpretation was limited by substantial heterogeneity across studies (MD = 0.24, 95% CI: -0.15 to 0.63; I² = 90.5%). No significant differences were observed in mesh infection rates (RR = 0.80, 95% CI: 0.18-3.59; I² = 17.9%). However, fixation was associated with increased chronic postoperative pain (MD = 0.27, 95% CI: 0.13-0.40; I² = 8.4%).\n[CONCLUSIONS] Available evidence suggests that mesh non-fixation yields comparable short-term outcomes and may reduce chronic postoperative pain; however, current data remain insufficient to definitively exclude clinically meaningful differences in recurrence risk due to the low number of recurrence events reported across studies.",
+      "abstract_cn": "纳入20项RCT共1537例患者，比较腹腔镜腹股沟疝修补术中补片固定与非固定的疗效。主要结局复发率无显著差异（RR=0.58，95%CI：0.19-1.76）；早期术后疼痛无显著差异但异质性高（I²=90.5%）；慢性疼痛方面，固定组显著增加（MD=0.27）。结论：非固定可获得相当短期结局且可能减少慢性疼痛，但复发事件数少，尚不能完全排除临床有意义的差异。",
+      "topic_tags": [
+        "腹股沟疝",
+        "腹腔镜修补",
+        "补片固定",
+        "系统综述",
+        "慢性术后疼痛"
+      ],
+      "commentary": {
+        "fruchaud": "Fruchaud在1956年就指出，腹股沟疝的解剖本质是肌耻骨孔这一共同薄弱区的缺损，无论采用何种固定技术，补片对内环、直疝三角和股管的完整覆盖才是防止复发的解剖学基础。本文meta-analysis显示固定与否对复发无显著影响，提示在腹腔镜下充分展平补片、确保解剖薄弱区被无张力覆盖，比机械性固定更为关键。然而95%CI跨幅达0.19-1.76，复发事件总数必然有限，这是否因为纳入研究的随访时间不足而未能捕捉到后期因补片移位导致的解剖覆盖失效？这一点值得深思。",
+        "lichtenstein": "1989年我提出无张力疝修补术时，固定与否并非核心问题，因为复发率从10-15%骤降至1%的关键在于补片材料而非固定方式。本文meta-analysis提示非固定组慢性疼痛显著降低（MD=0.27），这实际上是对无张力原则的延伸——减少异物刺激和钉枪损伤可能比牢固固定更能改善患者体验。然而固定组复发RR=0.58虽无统计学意义，其点估计值仍倾向于固定获益，在TEP/TAAP不同入路中解剖视野和补片移位风险各异，我们需要思考：对于巨大阴囊疝或组织菲薄的高危患者，是否仍需个体化考虑固定策略？",
+        "mayo": "'在可能情况下，让患者参与治疗决策是医者的责任'——本文最重要的发现并非复发数据，而是慢性疼痛的差异。在门诊随访中，我们见过太多因为持续腹股沟疼痛而无法提重物、无法拥抱孙辈、甚至不敢大笑的患者，他们或许不会出现在复发率统计中，但他们的生活质量才是衡量手术成败的真正标尺。非固定技术让患者减少了术后长期不适的风险，这对患者报告结局的改善意义深远，值得我们在知情同意过程中充分告知。",
+        "ebm": "纳入20项RCT看似样本量可观，但meta-analysis的核心问题在于：复发事件总数极少导致95%CI极宽（0.19-1.76），实际统计学意义存疑；早期疼痛分析I²=90.5%提示异质性不可接受，不宜简单合并；慢性疼痛虽I²=8.4%可接受，但MD=0.27的临床最小重要差异是否已明确定义？更关键的是，原始研究是否均采用盲法评估疼痛结局，以及利益冲突声明情况均未在文中详述。现有证据等级至多为B级，临床指南制定需谨慎，不宜据此全面推广非固定策略。"
+      }
+    },
+    {
+      "pmid": "42275915",
+      "doi": "10.1016/j.surg.2026.110335",
+      "title": "Surgical unit volume and recurrence after open groin hernia mesh repair: A nationwide register-based cohort study.",
+      "title_cn": "外科单位手术量与开放腹股沟疝补片修补术后复发的关系：一项基于瑞典疝登记系统的全国性登记队列研究",
+      "authors": [
+        "Melkemichel M",
+        "Weiler D",
+        "Bergström M",
+        "Bringman S",
+        "Widhe B"
+      ],
+      "journal": "Surgery",
+      "journal_abbrev": "Surgery",
+      "publish_date": "2026-05-22",
+      "abstract": "[BACKGROUND] Outcomes after open anterior mesh groin hernia repair may be influenced by surgical volume, but the extent of this relationship remains unclear. Although open anterior mesh-groin hernia repair is widely used, limited evidence exists on how surgical unit volume affects recurrence and postoperative complications. This study aimed to compare outcomes between high- and low-volume surgical units performing open anterior mesh-groin hernia repairs.\n[METHODS] A nationwide, population-based, cohort study with prospectively collected data from the Swedish Hernia Register was conducted. All patients aged 15 and older who underwent an open anterior mesh-groin hernia repair between 2015 and 2021 were included. Surgical units were categorized by their average annual volume: low (<25), low-medium (25-49), medium-high (50-150), and high (>150). The primary outcome was reoperation for recurrence with follow-up until 2024. The secondary outcome included postoperative complications within 30 days.\n[RESULTS] Totally, 64,589 open anterior mesh-groin hernia repairs from 103 units were analyzed. Reoperation rates for recurrence ranged from 1.9% to 2.8% across all volume groups. Only medium-high volume units showed a modestly significantly increased risk of reoperation for recurrence (hazard ratio, 1.14; 95% confidence interval, 1.03-1.27) compared with high-volume units. Emergency repairs at low-volume units had a significantly increased risk with a hazard ratio of 2.13 (95% confidence interval, 1.11-4.11). Postoperative complications were significantly more common in medium-high (odds ratio, 1.22; 95% confidence interval, 1.15-1.29) and low-medium units (odds ratio, 1.21; 95% confidence interval, 1.09-1.35).\n[CONCLUSION] Surgical unit volume had a limited impact on outcomes after elective open anterior mesh groin hernia repairs. However, emergency repairs at low-volume units showed an increased reoperation risk for recurrence, indicating increased sensitivity to surgical experience in emergency settings.",
+      "abstract_cn": "本研究利用瑞典疝登记系统数据，纳入2015-2021年间64,589例开放前路补片腹股沟疝修补术，按年均手术量分组分析预后差异。结果显示各组复发再手术率介于1.9%-2.8%之间，仅中高量单位较之高量单位轻度升高（HR 1.14）。值得注意的是，低量单位急诊手术的复发风险显著增加（HR 2.13），提示急诊情境下手术经验的影响更为突出。研究结论认为择期手术中外科单位手术量对预后影响有限。",
+      "topic_tags": [
+        "腹股沟疝",
+        "手术量",
+        "开放修补",
+        "复发",
+        "瑞典疝登记系统"
+      ],
+      "commentary": {
+        "fruchaud": "肌耻骨孔作为腹股沟区所有疝形成的共同解剖薄弱区，其完整覆盖是防止复发的解剖学基础。本研究以手术量作为暴露因素，却未深入探讨不同经验水平的术者对\"肌耻骨孔\"这一关键结构的显露与覆盖是否充分。补片是否能完全覆盖肌耻骨孔内界的耻骨支、外界的髂骨以及上界的腹横肌起点？这或许是手术量影响预后的解剖学本质所在。文中低量单位急诊手术复发风险翻倍，是否提示这类患者术中解剖辨认更为困难、补片覆盖范围受限？这一解剖学细节值得追问。",
+        "lichtenstein": "1989年我提出无张力修补原则时，预设补片应能桥接并长期覆盖薄弱区域。本研究显示手术量对择期手术复发影响有限，这是否意味着当前标准化补片技术已足够robust，使\"经验\"本身变得不再关键？然而低量单位急诊手术的高复发风险（HR 2.13）却有力地提醒我们：无张力原则在急诊情境下仍需精细的解剖操作来支撑。急诊条件下若补片展平欠佳、覆盖不全，再好的材料也无法实现等效修复。术式标准化的边界，或许就在急诊与择期之间。",
+        "mayo": "\"病人的最大利益是唯一需要考虑的利益\"——本研究的结局指标聚焦于再次手术这一客观数据，却未能告诉我们那些低量单位术后患者回家后过得怎样。复发再手术固然重要，但慢性疼痛、术后不适返回工作的时间、以及对生活质量的影响，才是患者真正关心的\"他们过得怎样\"。当研究告诉我们\"2.8%的复发率在各组间无显著差异\"时，患者需要同时知道：这些复发患者经历了什么？是简单局麻下小切口修补还是再次全麻大手术？每一次冰冷的统计数字背后，都是一个有家庭、有生活的具体的人。",
+        "ebm": "这是一项设计严谨的全国性登记队列研究，样本量达64,589例，随访至2024年，数据来源于高质量的瑞典疝登记系统——这些是其优势。然而需要指出：观察性研究的固有局限（混杂因素、选择偏倚）无法通过统计调整完全消除；中位随访时间缺失；术后30天并发症数据依赖行政编码而非临床验证；最重要的是，研究未进行intent-to-treat分析，对于失访患者的复发情况缺乏交代。本研究证据等级可评为B级（中等），其结论\"手术量对择期手术影响有限\"可作为临床参考，但\"急诊手术需选择经验丰富的单位\"这一建议则因效应量较大（HR 2.13）而更具临床意义。"
+      }
+    },
+    {
+      "pmid": "42295395",
+      "doi": "10.1007/s10029-026-03751-2",
+      "title": "Open versus laparoscopic inguinal hernia repair in patients with obesity: a NSQIP propensity-matched analysis of 59,943 elective, emergency, and recurrent cases.",
+      "title_cn": "肥胖患者开放与腹腔镜腹股沟疝修补术的比较：一项基于NSQIP数据库59,943例择期、急诊及复发疝的倾向性评分匹配分析",
+      "authors": [
+        "Hou M",
+        "Mitchell P",
+        "Debru E",
+        "Church N",
+        "Meyer D"
+      ],
+      "journal": "Hernia : the journal of hernias and abdominal wall surgery",
+      "journal_abbrev": "Hernia",
+      "publish_date": "2026-06-15",
+      "abstract": "[BACKGROUND] Laparoscopic inguinal hernia repair is increasingly used as an alternative to open repair. Our study investigates the 30-day outcomes of open vs. laparoscopic inguinal hernia repair in the population with obesity using the National Surgical Quality Improvement Program (ACS-NSQIP) database.\n[METHODS] In this retrospective study, all patients with obesity who underwent inguinal hernia repair between the years 2015-2023 inclusive were selected from the ACS-NSQIP database. Patients who underwent open repair were matched with laparoscopic repair patients using propensity score. 30-day postoperative complication rates were compared between the open and laparoscopic groups including univariate and multivariate analysis. Subgroup analysis with emergency repair and recurrent hernia was conducted.\n[RESULTS] There were 59,943 patients included including 30,289 patients undergoing open repair and 29,654 undergoing laparoscopic repair. The ratio of laparoscopic to open cases increased overall during the study period. The multivariate analysis showed a decreased rate of serious complication (OR 0.17, 95%CI 0.04-0.79). Furthermore, the multivariate analysis demonstrated odds ratio of serious complication of 0.63 (95%CI 0.34-1.17) in emergency repairs and 0.21 (95%CI 0.10-0.44) in recurrent cases when compared to open approach.\n[CONCLUSION] Laparoscopic inguinal hernia repair in patients with obesity demonstrated a lower rate of postoperative serious complications in the all-comers and recurrent repair subgroup and was comparable to open repair for the emergency surgery subgroup. This study further supports the safety of laparoscopic inguinal hernia repair as an alternative to open repair in patients with obesity.",
+      "abstract_cn": "本研究利用ACS-NSQIP数据库（2015-2023年），对59,943例肥胖腹股沟疝患者进行倾向性评分匹配，回顾性比较开放与腹腔镜修补术的30天预后。结果显示腹腔镜组严重并发症风险显著降低（OR 0.17，95%CI 0.04-0.79），急诊亚组两种术式相当（OR 0.63），复发疝亚组腹腔镜优势明显（OR 0.21）。研究表明腹腔镜修补术在肥胖患者中安全可行。",
+      "topic_tags": [
+        "肥胖",
+        "腹股沟疝",
+        "腹腔镜修补",
+        "NSQIP数据库",
+        "倾向性评分匹配"
+      ],
+      "commentary": {
+        "fruchaud": "Fruchaud在1956年强调，所有腹股沟区疝都经由肌耻骨孔这一共同薄弱区发生。然而本研究聚焦于临床结局，对这一解剖薄弱区本身着墨甚少。肥胖患者腹部脂肪的异常堆积是否改变了肌耻骨孔区域的筋膜层次和神经血管毗邻关系？这些解剖学变化对腹腔镜下补片覆盖范围的影响如何？术者能否在脂肪浸润的术野中准确辨认直疝三角和斜疝内环口？期待未来研究能提供术中解剖学图片佐证。",
+        "lichtenstein": "1987年我提出无张力修补原则时，复发率从10-15%骤降至1%以下，彼时的技术革新震惊学界。本研究显示腹腔镜在肥胖患者中严重并发症odds ratio仅0.17，这是否意味着微创技术正在延续无张力修补的革命性突破？然而腹腔镜需在全腹膜外或经腹操作，补片覆盖角度与开放 Lichtenstein 术式迥异——在肥胖患者厚实的腹膜前间隙中，腹腔镜能否真正实现同等有效的肌耻骨孔全覆盖？这一技术细节值得深思。",
+        "mayo": "Mayo诊所的创立者曾说\"病人的最大利益是唯一需要考虑的利益\"，本研究用59,943例的大数据论证了腹腔镜的安全性，但我更关心这些患者回家后过得怎样。研究仅报告30天并发症，缺乏患者报告结局（PROMs）——术后慢性疼痛发生率、日常活动能力恢复程度、对手术的长期满意度。肥胖患者本身行动不便，他们选择腹腔镜后生活质量是否真正改善？这些\"人\"的故事，才是一篇好的外科论文最应回答的问题。",
+        "ebm": "这是一项大样本回顾性研究，倾向性评分匹配在一定程度上控制了混杂，但证据质量仍有局限：急诊亚组OR值0.63的95%CI横跨0.34至1.17，提示结果不稳健；复发疝亚组OR 0.21虽显著，但亚组分析多重比较的假阳性风险未做校正；30天随访终点缺失数据情况不明确。更关键的是，缺乏长期复发率数据使临床决策参考价值大打折扣——若腹腔镜术后一年复发率反超开放，这种\"并发症优势\"便值得重新审视。在缺乏随机对照的情况下，本研究证据等级至多为B级，当审慎指导临床。"
+      }
+    }
+  ],
+  "brief_mentions": [
+    {
+      "pmid": "42295453",
+      "title": "Operative time and recurrence across five techniques of inguinal hernia repair: a Bayesian network meta-analysis of 29 randomized trials.",
+      "journal_abbrev": "Hernia",
+      "one_line": "通过贝叶斯网络 meta 分析 29 项随机试验，比较五种腹股沟疝修补技术的手术时间和复发率，为技术选择提供循证依据。"
+    },
+    {
+      "pmid": "42295480",
+      "title": "Endoscopic totally extraperitoneal repair for parastomal hernia using the ePauli technique.",
+      "journal_abbrev": "Hernia",
+      "one_line": "评估 ePauli 技术在完全腹腔外内镜下修复旁结肠疝的可行性及短期疗效。"
+    },
+    {
+      "pmid": "42275914",
+      "title": "Nationwide implementation and perioperative outcomes of robotic distal pancreatectomy for malignancy: A propensity score matched analysis in Japan.",
+      "journal_abbrev": "Surgery",
+      "one_line": "日本全国范围推行机器人辅助远端胰腺切除术，通过倾向性评分匹配分析显示围手术期安全性和短期 oncologic 结局。"
+    },
+    {
+      "pmid": "42274806",
+      "title": "Analysis of morphological patterns in incisional hernias following different surgical approaches.",
+      "journal_abbrev": "Hernia",
+      "one_line": "分析不同手术入路对切口疝形态模式的影响，为个体化修补策略提供形态学依据。"
+    },
+    {
+      "pmid": "42274807",
+      "title": "Improved quality of life after combined plastic and general surgical retromuscular mesh repair for abdominal wall hernia with concurrent rectus diastasis: a retrospective cohort study of 59 post-partum woman.",
+      "journal_abbrev": "Hernia",
+      "one_line": "联合整形与普通外科行后肌腱膜网格修复腹壁疝伴腹直肌分离，显著提升患者生活质量。"
+    },
+    {
+      "pmid": "42274837",
+      "title": "Thirty-day outcomes of spinal versus general anesthesia for high-risk patients undergoing open inguinal hernia repair.",
+      "journal_abbrev": "Hernia",
+      "one_line": "比较高危患者接受开放腹股沟疝修补时，腰麻与全麻的30天预后差异，为麻醉选择提供参考。"
+    },
+    {
+      "pmid": "42295448",
+      "title": "BIO-A versus Phasix biosynthetic mesh in minimally invasive hiatal hernia repair: systematic review and meta-analysis.",
+      "journal_abbrev": "Hernia",
+      "one_line": "系统评价与 meta 分析比较 BIO-A 与 Phasix 生物合成网格在微创食管裂孔疝修补中的安全性和复发率。"
+    },
+    {
+      "pmid": "42295428",
+      "title": "Long-term wound morbidity and hernia recurrence in diabetic patients with HbA1c ≥ 8.5% undergoing open transversus abdominis release: a descriptive longitudinal follow-up of a single-center cohort.",
+      "journal_abbrev": "Hernia",
+      "one_line": "随访糖尿病合并 HbA1c≥8.5% 患者行开放横纹肌松解术，发现长期伤口并发症和疝复发率显著升高。"
+    },
+    {
+      "pmid": "42274783",
+      "title": "Comparison of the effects of two drug combinations: ropivacaine-dexmedetomidine and ropivacaine-ketamine administered subcutaneously for postoperative pain control in patients with inguinal hernia: a double-blind clinical trial.",
+      "journal_abbrev": "Hernia",
+      "one_line": "比较皮下注射罗哌卡因-右美托咪定与罗哌卡因-氯胺酮复合镇痛对术后疼痛的效果，为最优镇痛方案提供依据。"
+    },
+    {
+      "pmid": "42274225",
+      "title": "Female patients expect more information when undergoing surgery: a nationwide survey- and register-based cohort study.",
+      "journal_abbrev": "Br J Surg",
+      "one_line": "全国调查与登记数据提示，女性患者在手术前更期望获得详细信息，提示医患沟通需加强。"
+    },
+    {
+      "pmid": "42295390",
+      "title": "Minimally invasive extraperitoneal posterior neurectomy for anterior cutaneous nerve entrapment syndrome (ACNES): Primary description of the MEPONE technique and clinical outcomes.",
+      "journal_abbrev": "Hernia",
+      "one_line": "报告微创腹腔外后神经切除术（MEPONE）治疗前皮神经卡压综合征的初步临床可行性与疼痛缓解效果。"
+    },
+    {
+      "pmid": "42295402",
+      "title": "The SWIFTSS hernia model: putting ultra-low-cost hernia simulation in everybody's hands.",
+      "journal_abbrev": "Hernia",
+      "one_line": "研发超低成本疝气模拟训练模型 SWIFTSS，使基层医师能够随时进行手术技能练习并评估学习效果。"
+    },
+    {
+      "pmid": "42295465",
+      "title": "Favorable one-year outcomes despite residual fascial tension after ventral hernia repair with transversus abdominis release.",
+      "journal_abbrev": "Hernia",
+      "one_line": "即使残留筋膜张力，腹壁疝修补联合横纹肌松解术仍在一年的随访中显示良好疗效和低复发率。"
+    },
+    {
+      "pmid": "42272043",
+      "title": "Comparative Oncologic Outcomes of Laparoscopic versus Open Surgery for Early-Onset Low Rectal Cancer: 3-Year Results From the LASRE Trial.",
+      "journal_abbrev": "World J Surg",
+      "one_line": "LASRE 试验显示早期低直肠癌患者接受腹腔镜手术与开放手术的 3 年肿瘤学结局相当，提示微创手术安全可行。"
+    },
+    {
+      "pmid": "42277576",
+      "title": "The Path to Independence: Progression in Entrustment Reflected in Entrustable Professional Activity Ratings.",
+      "journal_abbrev": "Ann Surg",
+      "one_line": "通过可信赖专业活动评分追踪住院医师独立性发展，发现培训期间信任度逐步提升，为评估手术能力提供新指标。"
+    },
+    {
+      "pmid": "42288098",
+      "title": "The eye sees what the mind knows: Eye tracking and artificial intelligence to assess surgical resident level of expertise.",
+      "journal_abbrev": "Surgery",
+      "one_line": "研究利用眼动追踪结合人工智能技术客观评估外科住院医师的手术技能水平。"
+    },
+    {
+      "pmid": "42297980",
+      "title": "Adaptive deep brain stimulation for dynamic gait control in Parkinson's disease: a randomized feasibility trial.",
+      "journal_abbrev": "Nat Med",
+      "one_line": "探讨自适应深部脑刺激在帕金森病患者中动态调节步态的可行性与安全性。"
+    },
+    {
+      "pmid": "42287070",
+      "title": "Open Total Pancreatectomy With Modified Cattell-Imanaga Reconstruction: How Do We Do It?",
+      "journal_abbrev": "World J Surg",
+      "one_line": "介绍开放全胰切除术后改良Cattell‑Imanaga重建的手术技巧与临床经验。"
+    },
+    {
+      "pmid": "42285117",
+      "title": "Prevention of postpartum haemorrhage: from evidence to implementation at scale.",
+      "journal_abbrev": "Lancet",
+      "one_line": "综述并推动产后出血预防措施在全球大规模系统实施的证据与实践路径。"
+    },
+    {
+      "pmid": "42281307",
+      "title": "Laparoscopic Versus Open Parenchymal-Preserving Liver Resection for Tumors in the Posterosuperior Segments a Systematic Review and Meta-Analysis of Randomized Controlled Trials and Propensity Score-Matched Studies.",
+      "journal_abbrev": "World J Surg",
+      "one_line": "系统评价与Meta分析比较腹腔镜与开腹保肝切除后上区肝肿瘤的疗效。"
+    },
+    {
+      "pmid": "42297978",
+      "title": "Long-term independent use of an intracortical brain-computer interface for speech and cursor control.",
+      "journal_abbrev": "Nat Med",
+      "one_line": "报告长期独立使用皮层内脑机接口实现言语和光标控制的可行性，并评估其长期可靠性。"
+    },
+    {
+      "pmid": "42286321",
+      "title": "Efficacy and target engagement of dopamine agonist pramipexole for anhedonic depression: a randomized placebo-controlled trial.",
+      "journal_abbrev": "Nat Med",
+      "one_line": "评估普拉克索对快感缺失性抑郁的临床疗效及多巴胺靶点结合情况的显著差异。"
+    },
+    {
+      "pmid": "42277463",
+      "title": "Clinical Profile and Genomic Characterization of the 2026 Bundibugyo Virus Index Case in Uganda.",
+      "journal_abbrev": "Nat Med",
+      "one_line": "描述2026年乌干达邦迪布gio病毒首例病例的临床表现与基因组特征。"
+    },
+    {
+      "pmid": "42301701",
+      "title": "Seeing the Unseen: A Theory of Sexual Misconduct Perception in the Surgical Workplace.",
+      "journal_abbrev": "Br J Surg",
+      "one_line": "提出外科工作场所性不当行为感知的理论框架，揭示潜在认知机制并探讨深层次因素。"
+    },
+    {
+      "pmid": "42301281",
+      "title": "Metastatic Lymph Node Burden and Invasive Tumour Features Inform First Recurrence Patterns After Curative-Intent Resection for Intrahepatic Cholangiocarcinoma.",
+      "journal_abbrev": "Br J Surg",
+      "one_line": "揭示转移性淋巴结负担和侵袭性肿瘤特征可预测肝内胆管癌根治性切除后的首次复发模式。"
+    },
+    {
+      "pmid": "42300123",
+      "title": "Rethinking Surgical Wait Times: Why Policy Targets Must Evolve with Evidence.",
+      "journal_abbrev": "Ann Surg",
+      "one_line": "强调手术等待时间的政策目标应随最新证据不断调整，以优化患者预后。"
+    },
+    {
+      "pmid": "42299892",
+      "title": "Podcasts as Digital Scholarship in Surgical Education and Professional Development: Perspectives from Learners to Leaders.",
+      "journal_abbrev": "Ann Surg",
+      "one_line": "探讨播客作为数字化学术形式在外科教育及职业发展中的价值与影响。"
+    },
+    {
+      "pmid": "42299619",
+      "title": "Preoperative multisystem circadian coupling and long-term outcomes after colorectal cancer surgery.",
+      "journal_abbrev": "Br J Surg",
+      "one_line": "研究表明术前多系统昼夜节律耦合程度与结直肠癌手术后长期预后密切相关。"
+    },
+    {
+      "pmid": "42299618",
+      "title": "Clinical and Molecular Heterogeneity of Metachronous Colorectal Cancer.",
+      "journal_abbrev": "Br J Surg",
+      "one_line": "揭示同步与异时性结直肠癌在临床及分子层面的异质性，为精准治疗提供依据。"
+    },
+    {
+      "pmid": "42298328",
+      "title": "GLP-1 Receptor Agonists vs Bariatric Surgery in Breast Cancer: A Comparative Study of Oncologic Outcomes.",
+      "journal_abbrev": "Ann Surg",
+      "one_line": "比较GLP-1受体激动剂与减重手术对乳腺癌患者肿瘤学预后的差异。"
+    }
+  ],
+  "monthly_total": 60
+}

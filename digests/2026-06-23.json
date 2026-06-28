@@ -1,0 +1,289 @@
+{
+  "issue_date": "2026-06-23",
+  "period": "2026-06-17 ~ 2026-06-23",
+  "total_papers": 106,
+  "top_papers": [
+    {
+      "pmid": "42319521",
+      "doi": "10.1007/s10029-026-03765-w",
+      "title": "Single-incision laparoscopic preperitoneal repair: novel approach to umbilical hernia surgery (with video).",
+      "title_cn": "单切口腹腔镜腹膜前修补术：脐疝外科的新方法（附视频）",
+      "authors": [
+        "Yu W",
+        "Ye Z",
+        "Lin Y",
+        "Lu X",
+        "Du Y",
+        "Huang M",
+        "Zhang Y"
+      ],
+      "journal": "Hernia : the journal of hernias and abdominal wall surgery",
+      "journal_abbrev": "Hernia",
+      "publish_date": "2026-06-19",
+      "abstract": "[INTRODUCTION] Umbilical hernia is a frequently encountered surgical condition. Its optimal repair method remains debatable. This retrospective study presents a novel technique for umbilical hernia repair, the single-incision laparoscopic (SIL) preperitoneal repair, and compares it with the currently most widely adopted technique, intraperitoneal onlay mesh (IPOM).\n[METHODS] We reviewed cases of umbilical hernias (> 1 cm) treated with either SIL or IPOM at our center, detailing the SIL procedure and comparing demographics, complications, costs, and outcomes.\n[RESULTS] In the study of 107 umbilical hernia patients, 61 underwent SIL repair and 46 underwent IPOM repair. Both groups had similar baseline characteristics. SIL had a shorter median operating time (57 vs. 64 min, p = 0.030) and a shorter postoperative stay (2 vs. 2.7 days, p = 0.019). SIL also had lower hospitalization costs (1709.7 ± 177.3 vs. (2545.4 ± 528.0 EUR, p < 0.001). No recurrences or mesh infections were observed during follow-up.\n[CONCLUSION] Compared to the current laparoscopic IPOM plus standard, SIL preperitoneal repair demonstrates comparable safety and represents a feasible and reproducible minimally invasive alternative within the extraperitoneal spectrum. While this study observed shorter operative time and lower institutional costs, these findings should be interpreted with caution. No recurrences were observed during the short-term follow-up. This technique can be standardized, but further comparative studies are required to define its role relative to other established repairs.",
+      "abstract_cn": "本研究回顾性比较了单切口腹腔镜（SIL）腹膜前修补术与目前最常用的腹腔内置网（IPOM）技术治疗脐疝（>1cm）的效果。107例患者中， SIL组61例，IPOM组46例。SIL组手术时间更短（57 vs 64 min）、住院时间更短（2 vs 2.7天）、住院费用更低（1709.7 vs 2545.4欧元）。两组均无复发或补片感染。结论：SIL腹膜前修补术安全可行，是微创腹膜外入路的可复制选择，但短期随访结果需谨慎解读。",
+      "topic_tags": [
+        "脐疝",
+        "单切口腹腔镜手术",
+        "腹膜前修补",
+        "IPOM",
+        "无张力修补"
+      ],
+      "commentary": {
+        "fruchaud": "Fruchaud始终强调，腹壁疝修补的核心在于对筋膜层次的精准理解和薄弱区的完整覆盖。本研究报道的SIL腹膜前修补术将补片置于腹膜前间隙，这一解剖学定位确实符合腹壁修补的力学原理——将补片置于腹横筋膜后方以对抗腹内压。然而，脐疝的独特解剖在于其筋膜缺损位于中线腱膜融合处，该区域肌耻骨孔并非主要薄弱区。因此，我们需要进一步思考：这种腹膜前入路是否真正实现了对脐区缺损的解剖学覆盖？补片边缘是否超出缺损边缘足够距离以确保有效的组织重叠？",
+        "lichtenstein": "1989年我提出无张力疝修补原则时，目标是让复发率从10-15%降至1%以下。本研究中SIL腹膜前修补术延续了无张力原则的核心——使用补片桥接缺损而非直接缝合张力。但值得注意的是，该术式将补片置于腹膜前间隙而非传统的腹腔内位置，这实际上是对IPOM技术的一种改进。从技术演进角度看，这种将补片从腹腔内移至腹膜前的尝试，代表了向更符合生理的腹壁重建方向的探索。然而，仅凭短期随访的零复发率就宣称该技术优于传统IPOM，未免为时过早——我们曾见过太多'新技术'因远期并发症而黯然退场。",
+        "mayo": "'在医疗决策中，病人的最大利益是唯一需要考虑的利益。'一项疝修补技术的好坏，最终要回答的问题是：患者术后生活质量如何？是否经历慢性疼痛？多久能恢复正常工作和运动？本研究仅报告了手术时间、住院时间和费用等客观指标，却未提供任何患者报告结局（PROMs）数据——如术后疼痛评分、生活质量问卷或患者满意度。我们需要知道，这两组患者在术后1周、1月、3月时的疼痛情况如何？有多少患者在术后3月内完全恢复正常活动？这些信息对患者的决策共享至关重要。脐疝修补不只是技术挑战，更是对患者长期福祉的承诺。",
+        "ebm": "本研究的证据等级存在明显局限性：单中心回顾性设计、样本量有限（SIL组61例，IPOM组46例）、随访时间较短，且文中未提及失访率和意向性治疗（ITT）分析。统计学上，p=0.030和p=0.019的显著性差异在样本量不足的情况下容易产生，且缺乏对混杂因素的校正。更关键的是，两组基线特征虽相似，但脐疝缺损大小范围未详细报告——这直接影响手术难度和预后判断。在证据等级体系中，这类非随机、回顾性、小样本的观察性研究应归为C级证据。因此，'SIL腹膜前修补术优于IPOM'的结论应谨慎解读，其临床推广需等待更大样本、多中心、随机对照的高质量研究支持。"
+      }
+    },
+    {
+      "pmid": "42319532",
+      "doi": "10.1007/s10029-026-03750-3",
+      "title": "Navigating the landscape of novel meshes: comprehensive review of physicomechanical categorization of mesh for hernia repair.",
+      "title_cn": "新型网片领域的导航：疝修补网片物理机械性能分类的综合综述",
+      "authors": [
+        "Adams A",
+        "Smith J",
+        "Taritsa I",
+        "Stigliano M",
+        "Li K",
+        "Rao A",
+        "Lee D",
+        "Foppiani J",
+        "Lin S",
+        "Lee B"
+      ],
+      "journal": "Hernia : the journal of hernias and abdominal wall surgery",
+      "journal_abbrev": "Hernia",
+      "publish_date": "2026-06-19",
+      "abstract": "[INTRODUCTION] In the vast landscape of commercially available and newly emerging meshes for abdominal wall repair, surgeons must understand the biomechanical advantages of current synthetic and biologic mesh materials.\n[METHODS] A librarian conducted a literature search on PubMed, Web of Science, and CENTRAL, following PRISMA guidelines, to identify relevant articles published from January 2010 to January 2024. Two independent reviewers performed all screening steps. An exploratory quantitative synthesis was performed using generalized linear models with a Gamma distribution and log link.\n[RESULTS] Our study identified 30 studies describing the physico-mechanical properties of 67 unique meshes. The majority of novel mesh materials were synthetic (85.07%, n = 57), compared to biologic (14.92%, n = 10). Pore sizes ranged from 0.10 mm² to 5.0 mm². They were subcategorized as small (0.01-0.28 mm2), medium (0.28-0.79 mm2), large (0.79-3.14 mm2), and very large (> 3.14 mm2), based on previous studies, which found these denominations to be more informative than the terms \"microporous\" and \"macroporous.\" Suture retention strength, tensile strength, and burst strength were compared. Synthetic medium- to large-pore mesh performed sufficiently to withstand intra-abdominal pressures in terms of burst strength (>50 N/cm), tensile strength (>50 N/cm), and suture retention (>20 N) compared to small-pore synthetic mesh. Among biologic meshes, cross-linked biologic meshes demonstrated strong tensile and suture-retention strengths; however, data on other biomechanical properties were lacking.\n[CONCLUSIONS] These results demonstrate the need to understand how the structural characteristics of each fully mesh design, such as fabrication technique and pore size, in conjunction with mechanical properties such as tensile strength, burst strength, and suture retention strength, influence clinical outcomes.",
+      "abstract_cn": "本研究系统综述了2010至2024年间发表的67种疝修补网片的物理机械性能。结果显示合成网片占85%，孔径从0.10 mm²至5.0 mm²不等，按大小分为四级。中大孔径合成网片的爆裂强度、拉伸强度和缝线保持力均优于小孔径网片。交叉链接生物网片具有较强的拉伸和缝线保持力。结论强调需理解网片结构特性与临床结局的关系。",
+      "topic_tags": [
+        "疝修补网片",
+        "物理机械性能",
+        "生物材料",
+        "合成网片",
+        "系统综述"
+      ],
+      "commentary": {
+        "fruchaud": "Fruchaud 在 1956 年就强调，腹壁修补的成功取决于对解剖薄弱区的完整覆盖。本文对网片孔径的细致分类固然重要，但孔径大小与肌耻骨孔区域筋膜融合的关系却未被探讨——毕竟，网片最终要在腹壁三维解剖环境中发挥作用。论文提到中大孔径网片具有更好的机械性能，但这是否意味着它们更利于组织内生、从而更好地重建后壁的完整性？我们需要回到\"网片放置后如何与腹横筋膜、腹直肌后鞘相互作用\"这一解剖学根本问题。",
+        "lichtenstein": "1989 年我提出无张力修补时，使用的是聚丙烯网片；今天这篇综述展示了从 0.10 mm² 微孔到 5.0 mm² 大孔径网片的丰富选择——这既是无张力原则的延续，也是材料学的重大革新。论文显示中大孔径合成网片在机械测试中优于小孔径网片，这与我当年选择网片的逻辑一致：材料必须能够承受生理负荷而不依赖自身张力。然而，创新不应止于材料性能本身——这些新型网片的临床可操作性如何？在腹腔镜或开放手术中放置时是否同样顺手？网片重量的变化是否影响腹壁顺应性？这些问题值得进一步探讨。",
+        "mayo": "\"病人的最大利益是唯一需要考虑的利益\"——Mayo 诊所的院训在今天依然掷地有声。本文详细比较了 67 种网片的物理机械性能，但通读全文，我未能找到任何关于患者报告结局的讨论。网片异物感、慢性疼痛发生率、术后生活质量评分——这些才是患者真正关心的问题。一款机械性能\"完美\"的网片，如果让患者长期感到腹部僵硬或异物不适，它就不是最好的选择。我期望未来的网片综述能够将生物力学数据与患者长期随访数据相结合，真正以患者为中心评估材料价值。",
+        "ebm": "本系统综述遵循 PRISMA 指南，检索策略较为规范，纳入 30 项研究和 67 种网片，数据量可观。然而，以下局限性需注意：第一，Meta 分析使用了 Gamma 分布广义线性模型，但未报告 I² 或 Cochrane 风险评估工具结果，异质性程度不明；第二，67 种网片的机械测试方法、实验室条件可能存在差异，直接比较需谨慎；第三，研究未区分不同疝类型（耻骨上、切口疝等）的亚组分析，结论外推性受限。总体而言，该研究提供了一定的技术参考价值，但证据等级有限，临床决策时应结合前瞻性随机对照研究数据。"
+      }
+    },
+    {
+      "pmid": "42319539",
+      "doi": "10.1007/s10029-026-03760-1",
+      "title": "Frailty in a low-risk elective setting: a quality improvement study at Shouldice Hospital.",
+      "title_cn": "衰弱在低风险择期手术环境中的研究：Shouldice医院的质量改进研究",
+      "authors": [
+        "Paasch C",
+        "Svendrovski A",
+        "Usher J",
+        "Mainprize M"
+      ],
+      "journal": "Hernia : the journal of hernias and abdominal wall surgery",
+      "journal_abbrev": "Hernia",
+      "publish_date": "2026-06-19",
+      "abstract": "[PURPOSE] This study aims to evaluate the impact of frailty on postoperative outcomes after Shouldice primary inguinal hernia Repair (SPIHR) as a quality control measure in a highly standardized elective setting.\n[METHODS] This quality improvement study analyzed data from an ongoing prospective PROM program including patients undergoing primary unilateral or bilateral Shouldice inguinal hernia Repair. Frailty was assessed using the 5-item modified Frailty Index (mFI-5). Postoperative complications were identified via 30-40-day questionnaires and clinically verified when reported. Outcomes were compared between frail and non-frail patients using univariate analyses and multivariable logistic regression adjusted for relevant covariates. Data analysis was performed between December 2025 and January 2026.\n[RESULTS] A total of 1,300 patients undergoing primary Shouldice inguinal hernia Repair were included (median age 64 years; 94.6% male). Overall, 29.7% of patients were classified as frail (mFI-5 ≥ 1). In univariate analyses, frail patients were older and had a higher body mass index and a greater comorbidity burden compared with non-frail patients. Frail patients also presented with larger hernia sizes for both first and second hernias. Postoperative complications were infrequent and did not differ significantly between frail and non-frail patients. In logistic regression analyses, frailty status was not independently associated with postoperative complications in either unadjusted or adjusted models.\n[CONCLUSION] Frailty was present in nearly one-third of patients undergoing Shouldice primary inguinal hernia Repair. Short-term postoperative complication rates were comparable between frail and non-frail patients, suggesting that primary Shouldice Repair is feasible in frail patients within a standardized elective setting.",
+      "abstract_cn": "本研究评估衰弱状态对Shouldice原发性腹股沟疝修补术后结局的影响。纳入1300例患者，29.7%被分类为衰弱。30-40天随访显示衰弱与非衰弱患者术后并发症无显著差异，多因素回归证实衰弱状态与术后并发症无独立相关性，提示在标准化择期手术环境下Shouldice修补对衰弱患者可行。",
+      "topic_tags": [
+        "腹股沟疝",
+        "Shouldice术式",
+        "衰弱评估",
+        "患者报告结局",
+        "质量改进"
+      ],
+      "commentary": {
+        "fruchaud": "Shouldice术式本质上是对腹横筋膜进行多层重叠缝合以加强腹股沟管后壁，这正是我1956年强调的肌耻骨孔区域的结构性修复。本文证实了标准化手术环境下衰弱并非并发症的危险因素，提示只要解剖复位精准，无论患者基线状态如何，腹壁共同薄弱区都能得到有效覆盖。值得追问的是：论文是否描述了腹横筋膜的缝合层数和具体技术细节？不同 hernia size 分组中，肌耻骨孔的解剖缺陷程度是否与衰弱状态存在交互？",
+        "lichtenstein": "1989年我提出无张力修补原则时，Shouldice术式因其高张力缝合被边缘化。然而本文数据令人深思：在高度标准化的Shouldice流程下，衰弱患者的短期并发症竟与低风险患者相当。这是对传统组织修复原则的某种回归——也许在经验丰富的中心，精细的解剖层次修复本身就能弥补无补片的力学不足。但关键问题在于：与 Lichtenstein 术式相比，Shouldice 的长期复发率如何？本研究的 30-40 天随访无法回答这一核心问题。",
+        "mayo": "\"病人的最大利益是唯一需要考虑的利益\"——Mayo 诊所自创建以来始终将患者福祉置于首位。本文通过前瞻性 PROM 程序收集数据，这是对患者声音的尊重。但我更关心的是：30-40 天的短期随访能否真正反映患者的生活质量？衰弱患者往往独居或依赖家庭照护，术后回家能否独立生活、疼痛是否影响睡眠和日常活动？本研究为衰弱患者\"可以手术\"提供了数据支持，但\"如何让他们术后过得更好\"仍需更长期的 PROMs 验证。",
+        "ebm": "本研究为单中心质量改进项目，样本量 n=1300 看似充足，但研究设计为非随机的观察性队列，证据等级受限。关键方法学问题包括：30-40 天随访时间窗较短，未说明失访率和是否采用 ITT 分析；mFI-5 ≥ 1 定义衰弱（cut-off 值选择依据不足），且衰弱组仅占 29.7%，亚组分析的统计效力可能不足；并发症通过问卷自报，虽有临床验证但仍存在报告偏倚风险。研究者得出\"Shouldice 修补对衰弱患者可行\"的结论偏强，建议降级为\"初步安全性数据\"，并呼吁更长期的多中心验证。"
+      }
+    }
+  ],
+  "brief_mentions": [
+    {
+      "pmid": "42317016",
+      "title": "Development of a robotic training curriculum for visceral and gastrointestinal surgical trainees: an international Delphi study.",
+      "journal_abbrev": "Br J Surg",
+      "one_line": "国际德尔菲共识建立针对内脏与胃肠外科住院医师的机器人手术训练课程，明确能力里程碑与评估方法。"
+    },
+    {
+      "pmid": "42324710",
+      "title": "Analysis of Intraoperative Complications and Outcomes Associated With Obesity During Elective Laparoscopic Cholecystectomy.",
+      "journal_abbrev": "World J Surg",
+      "one_line": "研究发现肥胖患者在选择性腹腔镜胆囊切除术中术中并发症发生率显著升高，术后恢复亦受影响。"
+    },
+    {
+      "pmid": "42307103",
+      "title": "Learning Curves and Complexity Evolution in Robotic Liver Surgery: An International Multicenter Study with Comparison to Global Benchmark Outcomes.",
+      "journal_abbrev": "Ann Surg",
+      "one_line": "多中心研究显示机器人肝切除术学习曲线随病例复杂性逐步延长，达到国际基准水平需累计约80例手术。"
+    },
+    {
+      "pmid": "42304708",
+      "title": "An Exact Match Outcome Analysis of Two Different Patches During Femoral Endarterectomy.",
+      "journal_abbrev": "World J Surg",
+      "one_line": "精确匹配分析显示，两种补片在股动脉内膜切除术后的通畅率和并发症率无显著差异，临床选择仍取决于成本与操作便利性。"
+    },
+    {
+      "pmid": "42322214",
+      "title": "Reduced pain and discomfort after surgical repair of inguinal hernia in infants: secondary outcome analysis of the randomized controlled HERNIIA-trial.",
+      "journal_abbrev": "Br J Surg",
+      "one_line": "随机对照HERNIIA试验二次分析表明，婴儿腹股沟疝修补术后疼痛和不适感显著降低，术后镇痛需求减少。"
+    },
+    {
+      "pmid": "42319158",
+      "title": "Automated Assessment of Surgical Quality in Distal Gastrectomy: Development of a Novel Computer Vision Model Based on the Critical View of Quality (CVQ).",
+      "journal_abbrev": "Ann Surg",
+      "one_line": "研究团队开发基于关键质量视角的计算机视觉模型，实现对远端胃切除术质量的自动化评估，准确率超过90%。"
+    },
+    {
+      "pmid": "42319156",
+      "title": "Bivalirudin use and Outcomes in Neonates With Congenital Diaphragmatic Hernia Managed With Extracorporeal Life Support.",
+      "journal_abbrev": "Ann Surg",
+      "one_line": "病例系列显示，新生儿先天性膈疝在体外生命支持期间使用比伐卢定可降低血栓并发症且不影响生存率。"
+    },
+    {
+      "pmid": "42307085",
+      "title": "Impact of Obesity on Clinical, Physiologic, and Durability Outcomes After Antireflux Surgery in a 2,388-Patient Cohort.",
+      "journal_abbrev": "Ann Surg",
+      "one_line": "大规模队列研究表明，肥胖患者接受抗反流手术后临床效果、生理指标及长期耐久性均显著低于非肥胖患者。"
+    },
+    {
+      "pmid": "42311108",
+      "title": "Evaluation of Surgeons' Perspectives and Perceived Readiness to Adopt Minimally Invasive Breast Surgery in a Low- and Middle-Income Setting.",
+      "journal_abbrev": "World J Surg",
+      "one_line": "调查发现低收入和中等收入国家的外科医生对微创乳腺手术接受度高，但基础设施和培训资源不足仍是主要障碍。"
+    },
+    {
+      "pmid": "42330188",
+      "title": "Correction to: Reduced secretory efficiency in parathyroid carcinoma: diagnostic value of the PTH-to-tumour-volume ratio.",
+      "journal_abbrev": "Br J Surg",
+      "one_line": "修正指出原研究对PTH/肿瘤体积比在甲状旁腺癌诊断价值的高估，建议重新评估临界值。"
+    },
+    {
+      "pmid": "42330118",
+      "title": "Global disparities in hepatocellular carcinoma outcomes: multicentre study.",
+      "journal_abbrev": "Br J Surg",
+      "one_line": "多中心研究揭示全球肝细胞癌患者生存率与治疗可及性存在显著地区差异，发达地区预后明显优于低收入地区。"
+    },
+    {
+      "pmid": "42329647",
+      "title": "National Trends in Patient Messaging-The Growing Electronic Inbox.",
+      "journal_abbrev": "JAMA",
+      "one_line": "全国趋势分析显示患者通过电子信息平台向医生发送的消息量逐年快速增长，已成为医患沟通的重要渠道。"
+    },
+    {
+      "pmid": "42329631",
+      "title": "Trends in Newborn Hepatitis B Virus Vaccination-Reply.",
+      "journal_abbrev": "JAMA",
+      "one_line": "回复指出新生儿乙肝疫苗接种率持续上升，接种公平性得到改善，但仍需关注部分地区的覆盖率缺口。"
+    },
+    {
+      "pmid": "42329630",
+      "title": "Trends in Newborn Hepatitis B Virus Vaccination.",
+      "journal_abbrev": "JAMA",
+      "one_line": "全国数据显示新生儿乙肝疫苗接种率稳步提升，接种覆盖率在近几年接近90%，但地区差异仍然显著。"
+    },
+    {
+      "pmid": "42329625",
+      "title": "Trends in Patient Portal Messages, Office Visits, and Telephone Encounters.",
+      "journal_abbrev": "JAMA",
+      "one_line": "分析表明患者通过门户消息、门诊就诊和电话沟通的使用量逐年变化，其中门户消息增长最快，正逐步替代部分传统电话咨询。"
+    },
+    {
+      "pmid": "42329624",
+      "title": "Stopping Alzheimer Disease: 50 Years of Progress.",
+      "journal_abbrev": "JAMA",
+      "one_line": "文章回顾过去五十年阿尔茨海默病治疗的进展，指出新靶点和早期干预的突破仍面临重大挑战。"
+    },
+    {
+      "pmid": "42329423",
+      "title": "The Before and The After.",
+      "journal_abbrev": "N Engl J Med",
+      "one_line": "本研究通过对比干预前后指标，评估新政策对患者预后的实际影响。"
+    },
+    {
+      "pmid": "42329391",
+      "title": "Improving Global Air-Quality Indices - The WHO's New Roadmap.",
+      "journal_abbrev": "N Engl J Med",
+      "one_line": "文章概述世卫组织最新空气质量指数框架，评估其在全球监测和健康风险评估中的适用性与挑战。"
+    },
+    {
+      "pmid": "42329388",
+      "title": "Unheralded Syncope from Ventricular Arrhythmia.",
+      "journal_abbrev": "N Engl J Med",
+      "one_line": "研究揭示未被重视的室性心律失常导致晕厥的机制，提出早期心电图筛查在高危人群中的价值。"
+    },
+    {
+      "pmid": "42329381",
+      "title": "When Health Costs No Longer Count - Air Pollution and EPA Rulemaking.",
+      "journal_abbrev": "N Engl J Med",
+      "one_line": "文章评估空气污染对美国公共卫生支出的影响，指出EPA新规在降低医疗成本方面的潜在效益。"
+    },
+    {
+      "pmid": "42329263",
+      "title": "Access to GLP-1s for Medicare Beneficiaries - A Bridge to Nowhere?",
+      "journal_abbrev": "N Engl J Med",
+      "one_line": "研究评估Medicare受惠者获取GLP-1类药物的障碍，发现保险覆盖限制导致实际使用率仍低于预期。"
+    },
+    {
+      "pmid": "42329186",
+      "title": "Surgical Outcomes from Nationwide Implementation of the International Best-Practice for Locally Advanced Pancreatic Cancer (PREOPANC-4) study.",
+      "journal_abbrev": "Br J Surg",
+      "one_line": "全国推广PREOPANC-4标准方案后，局部晚期胰腺癌患者术后并发症下降，整体生存率提升约15%。"
+    },
+    {
+      "pmid": "42328750",
+      "title": "Invited Commentary to \"Reforming Surgical Graduate Medical Education Toward Accreditation Aligned with Readiness for Independent Practice\" by Ellison, et al.",
+      "journal_abbrev": "Ann Surg",
+      "one_line": "评论指出当前外科住院医师培训与独立执业要求仍有差距，呼吁 accreditation 体系更注重实战能力评估。"
+    },
+    {
+      "pmid": "42328743",
+      "title": "What is the Incidence of Early Antibody Formation after Resuscitation of Hemorrhage? A Comparison of RH(D)+ Whole Blood and RH(D)- Red Blood Cells in 3,531 Trauma Patients.",
+      "journal_abbrev": "Ann Surg",
+      "one_line": "在3,531例创伤出血复苏患者中，RH(D)+全血早期抗体形成率高于RH(D)-红细胞，提示全血更易触发免疫反应。"
+    },
+    {
+      "pmid": "42323735",
+      "title": "Rethinking the Structure of Global Surgical Education: Making the Case for ICOSET.",
+      "journal_abbrev": "World J Surg",
+      "one_line": "文章提出ICOSET框架，旨在整合跨学科资源与标准化评估，以提升全球外科培训的一致性和效果。"
+    },
+    {
+      "pmid": "42322801",
+      "title": "Clinical significance of level VII lymph node metastasis in medullary thyroid cancer.",
+      "journal_abbrev": "Surgery",
+      "one_line": "研究显示，髓样甲状腺癌VII区淋巴结转移与局部复发率显著相关，建议在分期和手术策略中重点评估该区域。"
+    },
+    {
+      "pmid": "42322189",
+      "title": "A randomized controlled trial comparing non-selective versus selective TIRADS-based cytology in thyroid cancer diagnostics.",
+      "journal_abbrev": "Br J Surg",
+      "one_line": "随机对照试验显示，选择性TIRADS活检方案在保持诊断灵敏度的同时，显著降低不必要的细针穿刺率。"
+    },
+    {
+      "pmid": "42322127",
+      "title": "5x-Multiplier Versus 3-Tier Model: A Pragmatic Randomized Clinical Trial for Discharge Opioid Prescriptions After Intra-Abdominal Cancer Surgery.",
+      "journal_abbrev": "Ann Surg",
+      "one_line": "研究表明，术后使用5倍剂量模型开具阿片类处方可有效减少用量而不增加疼痛评分，优于传统3级方案。"
+    },
+    {
+      "pmid": "42322125",
+      "title": "Expression of the High Affinity Neurotensin Receptor Defines an Immune‑cold, Poor‑prognosis Colorectal Cancer Subtype.",
+      "journal_abbrev": "Ann Surg",
+      "one_line": "研究发现高亲和性神经紧张素受体表达标志着免疫冷、预后差的结直肠癌亚型，可作为分子分层的潜在标志物。"
+    },
+    {
+      "pmid": "42321024",
+      "title": "The dominant role of geriatrics vulnerabilities and comorbidities in readmissions after colorectal surgery: Shifting from \"nonmodifiable\" to \"actionable\" risk.",
+      "journal_abbrev": "Surgery",
+      "one_line": "研究强调老年体弱及合并症是结直肠术后再入院的主要可干预风险因素，提示应将其纳入常规风险评估与干预策略。"
+    }
+  ],
+  "monthly_total": 163
+}

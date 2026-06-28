@@ -1,0 +1,295 @@
+{
+  "issue_date": "2026-06-29",
+  "period": "2026-06-23 ~ 2026-06-29",
+  "total_papers": 96,
+  "top_papers": [
+    {
+      "pmid": "42334631",
+      "doi": "10.1007/s10029-026-03754-z",
+      "title": "Postoperative abdominal bulging after eTEP rives-stoppa repair despite posterior rectus sheath closure: a CT-based ellipse 9 study.",
+      "title_cn": "eTEP Rives-Stoppa 修复术后系统性后鞘关闭仍出现腹部膨隆：一项基于 CT Ellipse 9 工具的研究",
+      "authors": [
+        "Rossi M",
+        "Montechiari D",
+        "Portela I",
+        "Flores S",
+        "Rossini A",
+        "Obeide L",
+        "Signorini F"
+      ],
+      "journal": "Hernia : the journal of hernias and abdominal wall surgery",
+      "journal_abbrev": "Hernia",
+      "publish_date": "2026-06-23",
+      "abstract": "[PURPOSE] Postoperative bulging has been reported after enhanced-view totally extraperitoneal (eTEP) repair, but its underlying mechanisms remain unclear. This study aimed to objectively evaluate postoperative abdominal wall contour changes after eTEP repair with systematic posterior rectus sheath (PRS) closure and to identify factors associated with postoperative bulging using the Ellipse 9 tool.\n[METHODS] A retrospective observational study was conducted including patients who underwent eTEP repair with systematic posterior rectus sheath closure for midline hernias with rectus diastasis between 2019 and 2024 and had available preoperative and postoperative computed tomography scans. Abdominal morphometric parameters were analyzed using the Ellipse 9 tool at standardized anatomical levels. Rectus muscle density was assessed. Patients were classified into bulging and non-bulging groups. Preoperative and postoperative measurements were compared within and between groups.\n[RESULTS] Thirty-three patients were included: 24 patients (73%) did not develop postoperative bulging (non-bulging group), whereas 9 patients (27%) developed bulging (bulging group). In the overall cohort, a significant bilateral reduction in rectus muscle density was observed (p<0.001), with no relevant modifications in global abdominal contour. The non-bulging group showed decreased muscle density (right: p=0.036; left: p=0.012) without significant geometric contour changes. In contrast, the bulging group demonstrated significant increases in abdominal dimensions (p≤0.002) and greater reductions in eccentricity (p<0.001), indicating a rounder contour, along with a predominant reduction in right-sided rectus muscle density (p=0.036).\n[CONCLUSION] Postoperative bulging may occur despite systematic PRS closure, supporting a multifactorial origin. Rectus atrophy was insufficient as a sole mechanism, suggesting additional contributions from surgical and functional factors. Structured rehabilitation may improve postoperative outcomes.",
+      "abstract_cn": "本研究回顾性分析 2019-2024 年接受 eTEP Rives-Stoppa 修复的 33 例中线疝合并腹直肌分离患者。所有患者均接受系统性后筋膜鞘关闭。结果显示 73%（24 例）无术后膨隆，27%（9 例）出现膨隆。CT 形态测量分析发现：整体队列腹直肌密度显著下降；非膨隆组仅有肌肉密度改变而无轮廓变化；膨隆组腹部维度显著增加、轮廓趋于圆形化，右侧腹直肌萎缩更明显。结论：后鞘关闭不能完全预防膨隆，提示多因素致病机制。",
+      "topic_tags": [
+        "腹部膨隆",
+        "eTEP 修复",
+        "后筋膜鞘关闭",
+        "形态测量学",
+        "腹直肌萎缩"
+      ],
+      "commentary": {
+        "fruchaud": "Fruchaud 在 1956 年强调，所有腹壁疝修补的本质是覆盖解剖薄弱区。eTEP Rives-Stoppa 通过后路径重建腹直肌后间隙，其补片覆盖范围是否真正对应前腹壁的力学薄弱区？本研究利用 Ellipse 9 工具定量分析腹部轮廓，发现即使系统性后鞘关闭后仍有 27% 膨隆率，且膨隆组呈现更「圆形化」的腹部轮廓，这提示后鞘关闭的张力分布可能存在不均匀性——这难道不是筋膜层次对位不良在三维重建中的体现吗？后鞘关闭的位置与原发疝缺损位置的关系值得进一步解剖学分析。",
+        "lichtenstein": "1989 年我提出无张力修补时，关注的核心是降低复发，而非腹壁轮廓。eTEP Rives-Stoppa 延续了无张力原则，但本研究揭示了一个新问题：即使后鞘关闭+补片覆盖，27% 的患者仍出现影像学可见的膨隆。这不是复发的范畴，却可能是另一种形式的「功能失败」。研究提示肌肉萎缩与几何改变共存，指向一个关键问题——当前补片尺寸和放置策略是否足以对抗术后肌肉重塑？eTEP 的优势在于完全后入路，但如果补片不能有效限制腹直肌向两侧分离，腹壁轮廓恢复仍不完整。这或许提示需要重新审视补片的宽度与长度设计标准。",
+        "mayo": "'病人的最大利益是唯一需要考虑的利益'——Mayo 诊所的训诫在此刻仍具现实意义。本研究聚焦于 CT 形态测量，却未报告患者的生活质量、疼痛评分或功能状态。27% 的「膨隆率」是影像学定义，但这些患者穿上衣服后是否感到不适？他们的运动能力、呼吸功能、家庭照护负担是否受到影响？论文提到「结构化康复可能改善预后」，这一结论需要患者本人的反馈来支撑，而非仅凭 CT 数据推测。当我们讨论多因素机制时，是否也应该听听患者自己的解释？",
+        "ebm": "单中心回顾性研究，n=33，膨隆组仅 9 例——这样的样本量做亚组比较，统计效能严重不足。27% 的膨隆率是高是低？论文未与历史队列或开放手术对照。关键缺陷：作者声称「多因素机制」，却未进行多因素回归分析，仅比较单变量基线特征，因果推断可信度有限。术前术后 CT 时间间隔未明确说明，肌肉萎缩是术后改变还是本身就存在？结论称「结构化康复可能有益」——这也是无稽之谈，因为本研究根本没有评估任何康复干预。没有随机对照、没有前瞻性验证的「建议」属于低等级推断，临床参考价值有限。"
+      }
+    },
+    {
+      "pmid": "42334630",
+      "doi": "10.1007/s10029-026-03762-z",
+      "title": "Abdominal binders versus semi-rigid corsets after open ventral hernia repair: early postoperative tolerance and patient preference in a randomized cross-over study.",
+      "title_cn": "腹部弹性绷带与半硬式腰封在开放腹壁疝修补术后的早期耐受性和患者偏好：一项随机交叉研究",
+      "authors": [
+        "Mitura K",
+        "Pajer M",
+        "Kacprzak L",
+        "Niecikowski P",
+        "Wojcik M",
+        "Mitura L",
+        "Sawicka M",
+        "Witowska I",
+        "Kisielewski K"
+      ],
+      "journal": "Hernia : the journal of hernias and abdominal wall surgery",
+      "journal_abbrev": "Hernia",
+      "publish_date": "2026-06-23",
+      "abstract": "[BACKGROUND] The use of abdominal supports after ventral hernia repair remains common practice despite inconsistent evidence and lack of clear recommendations. Concerns persist that more rigid devices may be poorly tolerated in the early postoperative period.\n[AIM] To compare early postoperative patient-reported health state, functional outcomes, global preference, and willingness to recommend an elastic abdominal binder and a semi-rigid corset.\n[METHODS] In this prospective randomized within-subject cross-over study, 23 patients following open sublay repair of large ventral hernias were sequentially fitted with an elastic abdominal binder and a semi-rigid corset on postoperative day 2-3. Each device was worn for approximately three hours during routine postoperative activities. Patient-reported outcomes were assessed using VAS and EQ-5D-5 L questionnaires. Global preference and willingness to recommend each device were recorded.\n[RESULTS] VAS scores were comparable between devices (p = 0.36), indicating no deterioration in perceived health state with corset use. No EQ-5D-5 L domain was rated worse with the corset. Significant improvements were observed for usual activities and anxiety/depression. A majority of patients preferred the corset (69.6%), and significantly more patients recommended it compared to the binder (95.7% vs. 65.2%, p = 0.039).\n[CONCLUSIONS] Semi-rigid corsets were not associated with worse early postoperative tolerance and were more frequently preferred and recommended by patients. Early tolerance of semi-rigid supports may influence patient acceptance of postoperative abdominal support strategies, although long-term adherence was not assessed in the present study. These findings challenge the assumption that more rigid supports are poorly tolerated and support considering semi-rigid corsets as a viable option after open ventral hernia repair.",
+      "abstract_cn": "本研究比较了23例大型腹壁疝开放sublay修补术后患者使用弹性绷带与半硬式腰封的早期效果。采用前瞻性随机自身交叉设计，两种支具各佩戴约3小时。结果显示两种设备的VAS评分无显著差异（p=0.36），EQ-5D-5L各维度评分也无恶化。69.6%的患者更偏好半硬式腰封，且推荐意愿显著更高（95.7% vs 65.2%，p=0.039）。研究表明半硬式腰封耐受性良好，值得作为开放腹壁疝修补术后腹部支撑的可选方案。",
+      "topic_tags": [
+        "腹壁疝修补",
+        "术后支撑",
+        "患者报告结局",
+        "弹性绷带",
+        "腰封"
+      ],
+      "commentary": {
+        "fruchaud": "腹壁疝修补术后的支撑治疗，本质上是对腹壁筋膜层次和肌肉系统的一种外部代偿。我在1956年就强调，腹壁是一个多层次的复杂结构，任何外部支撑都应考虑与这些解剖层次的对应关系。该研究虽然聚焦于支具偏好，但未详细讨论半硬式腰封与弹性绷带在力学传导上的差异——前者是否更均匀地分散了腹壁压力，从而减少了对特定薄弱区的集中应力？此外，开放sublay修补将补片置于腹横筋膜与腹内斜肌之间，这一解剖学定位意味着术后支撑应重点保护的是补片覆盖区域，而非仅仅提供一般性压迫。期待未来研究能纳入腹壁生物力学测量，为支具选择提供解剖学依据。",
+        "lichtenstein": "我在1989年提出的无张力修补原则，彻底改变了疝外科的预后。然而，手术本身的张力问题解决了，术后管理同样重要。这篇研究关注了一个常被忽视却影响患者术后体验的细节——腹部支撑。令人欣慰的是，半硬式腰封并未如临床担忧的那样造成不适，反而获得更高满意度。这提示我们，在补片技术不断演进的同时，术后康复辅助措施也值得创新。该研究采用的自身交叉设计颇为巧妙，让同一患者直接比较两种支具，这种设计在医疗器械评估中值得推广。更重要的是，95.7%的推荐率意味着更佳的患者依从性，而依从性直接影响最终疗效——这才是技术创新的最终目的。",
+        "mayo": "我在梅奥诊所执业期间，始终坚持'病人的最大利益是唯一需要考虑的利益'。这篇研究的价值在于，它真正倾听并记录了患者自己的声音——不是医生的主观判断，而是患者报告的疼痛评分、生活质量和真实偏好。23名患者中，超过三分之二选择了半硬式腰封，这不是冰冷的统计数据，而是有温度的临床决策共享。然而，研究也坦承未评估长期依从性，这一点尤为重要：术后居家康复期间，患者能否坚持佩戴支具，很大程度上取决于早期体验的满意度。期待后续研究追踪这些患者出院后数周乃至数月的真实生活状态，告诉我们这些'推荐'的患者是否真正获益。",
+        "ebm": "方法论审视：这是一项n=23的前瞻性随机交叉研究，设计本身在减少个体差异偏倚方面具有优势，但样本量偏小限制了亚组分析和结论外推。主要终点为VAS评分和EQ-5D-5L问卷的主观指标，虽然统计学意义明确（p=0.039），但临床最小重要差异（MCID）标准未提及。此外，每种支具仅佩戴3小时的评估时长能否代表漫长的术后康复期，耐受性结论需谨慎解读。交叉设计的洗脱期处理未详细说明，可能存在携带效应。总体而言，该研究证据等级为B级（小型随机试验），结论有一定参考价值但不宜作为临床指南依据，未来需更大样本、多中心、长期随访的高质量RCT进一步验证。"
+      }
+    },
+    {
+      "pmid": "42349042",
+      "doi": "10.1016/j.surg.2026.110384",
+      "title": "The Laennec technique: A potential candidate for the standardization of right robotic donor hepatectomies.",
+      "title_cn": "Laennec 技术：机器人右肝供肝切除术标准化的一种潜在候选方案",
+      "authors": [
+        "Hallesy J",
+        "Rathi R",
+        "Imai D",
+        "Sambommatsu Y",
+        "Kumaran V",
+        "Saeed M",
+        "Khan A",
+        "Sharma A",
+        "Cotterell A",
+        "Bruno D",
+        "Lee S"
+      ],
+      "journal": "Surgery",
+      "journal_abbrev": "Surgery",
+      "publish_date": "2026-06-05",
+      "abstract": "[BACKGROUND] Robotic donor hepatectomy lacks a standardized technique, contributing to variability in learning curves and outcomes across institutions. The Laennec approach utilizes the Laennec's capsule, the Glissonean pedicle sheath, and the middle hepatic vein to create a structured, reproducible dissection framework suited to the robotic platform. We report our experience with this approach at a high-volume United States transplant center.\n[METHODS] We retrospectively analyzed 35 consecutive patients undergoing the Laennec approach-guided robotic donor hepatectomy at a high-volume United States transplant center (Jan 2023-Apr 2025) on the da Vinci Xi platform and evaluated perioperative and postoperative outcomes.\n[RESULTS] Median operative time was 446 min (range, 329-618), parenchymal transection time was 164 min (range, 115-319), and blood loss was 150 mL (range, 50-700). One case was converted to open surgery. Median peak total bilirubin was 2.75 mg/dL (range, 1.10-5.70), and peak alanine transaminase was 272 U/L (range, 138-652). The 90-day postoperative complication rate was 20%, with 1 postoperative bleeding event managed via laparoscopic re-exploration and no bile leaks or liver failure. Donor hepatic anatomy data demonstrated predominant single-vessel patterns for hepatic artery (96.4%) and portal vein (96.4%), with bile duct variants present in 71.4% of cases.\n[CONCLUSION] The Laennec approach is safe and feasible for robotic donor hepatectomy at a high-volume United States transplant center, with outcomes consistent with published benchmarks and zero biliary complications. Its anatomy-based dissection sequence creates a structured, teachable operative framework that may serve as a template for robotic donor hepatectomy standardization. Multicenter prospective studies are needed to confirm broader applicability.",
+      "abstract_cn": "本研究回顾性分析 35 例机器人供肝切除术，评估 Laennec 入路的安全性和可行性。该技术以 Laennec 囊、Glissonean 鞘和中肝静脉为解剖标志建立标准化切除框架。中位手术时间 446 分钟，失血量 150 mL，90 天并发症率 20%，无胆漏或肝衰竭发生。研究认为 Laennec 入路安全可行，可作为机器人供肝切除术标准化模板。",
+      "topic_tags": [
+        "机器人手术",
+        "供肝切除术",
+        "Laennec 技术",
+        "手术标准化",
+        "活体肝移植"
+      ],
+      "commentary": {
+        "fruchaud": "Fruchaud 始终强调，任何腹部手术的成功都建立在对解剖层次的精确把握之上。本文报道的 Laennec 技术以 Laennec 囊、Glissonean 鞘和中肝静脉为解剖标志，实质上是将肝门部重要的筋膜鞘结构纳入标准化解剖框架——这与我们在疝修补中强调的\"解剖第一性\"原则一脉相承。值得注意的是，供肝切除术中零胆漏的实现，恰恰证明了沿着正确解剖平面操作的临床价值。71.4% 的胆管变异率更提示我们，无论技术如何创新，对肝门部精细解剖的尊重始终是不可替代的。",
+        "lichtenstein": "Lichtenstein 在 1989 年开创无张力疝修补时，最大的贡献并非某种特定补片或术式，而是一套\"可标准化、可推广\"的技术哲学。本文报道的 Laennec 技术在机器人平台上实现了肝脏切除的模块化解剖序列，这正是对我所倡导的\"技术标准化\"理念的生动诠释。da Vinci Xi 系统的精准操控性与 Laennec 入路的结构化分解相结合，有望将原本漫长的学习曲线压缩至可管理的范围——这比任何单一的技术创新都更具变革意义。",
+        "mayo": "William J. Mayo 一直坚持\"患者利益至上\"的原则，在活体肝移植领域，这意味着我们必须同时考量两个患者：供者的短期安全与受者的长期获益。本组 35 例供者无死亡、零胆漏的记录令人欣慰，但 20% 的 90 天并发症率仍需我们追问：这些供者出院后的生活质量如何？肝功能完全恢复需要多长时间？作为外科医生，我们有责任，不仅要报告手术成功，更要追踪那些为拯救他人而献出部分肝脏的健康人，他们后来过得怎样。",
+        "ebm": "必须指出，这是一项来自美国单中心的回顾性队列研究，n=35，随访时间未明确限定终点，且缺乏对照组。在循证医学的证据等级体系中，这属于低质量观察性研究。20% 并发症率、1 例中转开放的数据在缺少标准化报告规范（如 Clavien-Dindo 分级）的情况下难以准确解读。更重要的是，活体供肝切除术的核心结局指标——供者长期肝再生能力、长期生活质量——在本文中完全缺失。结论中\"可作为标准化模板\"的表述为时尚早，期待未来多中心前瞻性注册研究提供更高等级证据。"
+      }
+    }
+  ],
+  "brief_mentions": [
+    {
+      "pmid": "42335727",
+      "title": "Recurrence outcome and prediction model of patients with gastric cancer underwent laparoscopic-assisted total gastrectomy: A retrospective study.",
+      "journal_abbrev": "Surgery",
+      "one_line": "建立并验证胃癌腹腔镜全胃切除术后复发的预测模型，回顾性分析显示模型能准确分层风险。"
+    },
+    {
+      "pmid": "42364024",
+      "title": "Opioid-sparing analgesia with clonidine versus fentanyl in inguinal hernia repair: a randomized clinical trial.",
+      "journal_abbrev": "Hernia",
+      "one_line": "随机试验显示，克隆尼丁在腹股沟疝修补术中可显著减少阿片类药物使用并降低术后镇痛副作用。"
+    },
+    {
+      "pmid": "42361532",
+      "title": "Impact of learning phase on complications and oncological quality in robotic left-sided pancreatectomy: A multicenter international analysis.",
+      "journal_abbrev": "Surgery",
+      "one_line": "多中心分析表明，机器人左侧胰体尾切除术的学习曲线初期并发症率较高，但对肿瘤切除质量影响有限。"
+    },
+    {
+      "pmid": "42360540",
+      "title": "Airway pressure reliably predicts intra-abdominal pressure during laparoscopic surgery.",
+      "journal_abbrev": "Hernia",
+      "one_line": "研究表明，腹腔镜手术中气道压力可作为腹腔内压的可靠预测指标，便于无创监测。"
+    },
+    {
+      "pmid": "42340704",
+      "title": "Sacrospinous Hysteropexy With Mesh vs Vaginal Hysterectomy for Treatment of Uterovaginal Prolapse: 10-Year Results of a Randomized Clinical Trial.",
+      "journal_abbrev": "JAMA Surg",
+      "one_line": "10年随机对照显示，骶棘肌腱固定术配合网片在子宫脱垂修复中功能结局不逊于阴道子宫切除，且复发率更低。"
+    },
+    {
+      "pmid": "42359543",
+      "title": "Patient-led, home-based follow-up for colorectal cancer: the DISTANCE multicentre stepped-wedge cluster-randomised trial.",
+      "journal_abbrev": "Br J Surg",
+      "one_line": "多中心阶梯式随机试验表明，患者主导的居家随访可维持甚至提升结直肠癌术后随访质量，并降低医院负担。"
+    },
+    {
+      "pmid": "42340709",
+      "title": "Inferior Mesenteric Artery Ligation Level and Anastomotic Leakage in Low Anterior Resection: A Randomized Clinical Trial.",
+      "journal_abbrev": "JAMA Surg",
+      "one_line": "随机试验显示，低位直肠前切除术中高位结扎肠系膜下动脉显著增加吻合口漏风险，建议采用低位结扎。"
+    },
+    {
+      "pmid": "42335923",
+      "title": "The next step towards lower complication rates in fetal therapy for congenital diaphragmatic hernia.",
+      "journal_abbrev": "Lancet",
+      "one_line": "文章提出通过精准胎儿评估和个体化干预策略，有望显著降低先天性膈疝胎儿治疗的并发症率。"
+    },
+    {
+      "pmid": "42335922",
+      "title": "Non-invasive removal of the Smart tracheal occlusion device for fetal congenital diaphragmatic hernia: a single-arm, open-label, phase 1 study.",
+      "journal_abbrev": "Lancet",
+      "one_line": "I期试验表明，无创取出智能气管封堵装置安全可行，为胎儿先天性膈疝提供微创干预新途径。"
+    },
+    {
+      "pmid": "42341300",
+      "title": "The Attack on Equity in Medicine: ITT Episode 2.8.",
+      "journal_abbrev": "N Engl J Med",
+      "one_line": "本期节目揭示医学公平性面临的系统性障碍，并呼吁政策与实践层面的多维度干预。"
+    },
+    {
+      "pmid": "42363585",
+      "title": "Prevalence and Outcomes of Thrombocytopenia at ICU Admission Among Critically Ill Patients in a Resource-Limited Setting.",
+      "journal_abbrev": "World J Surg",
+      "one_line": "研究显示，在资源受限的重症监护病房中，入住时血小板减少普遍且与死亡风险显著相关。"
+    },
+    {
+      "pmid": "42362868",
+      "title": "Re-administration of AAV-mediated gene therapy for OTOF-related deafness: a single-arm trial.",
+      "journal_abbrev": "Nat Med",
+      "one_line": "单臂试验显示，针对OTOF基因缺陷的AAV基因治疗可安全再给药并恢复部分听力。"
+    },
+    {
+      "pmid": "42362867",
+      "title": "Generative AI-enabled clinical decision support system in primary care: a pragmatic, cluster-randomized trial.",
+      "journal_abbrev": "Nat Med",
+      "one_line": "集群随机试验表明，生成式人工智能临床决策支持系统可提升基层诊疗决策质量并降低漏诊率。"
+    },
+    {
+      "pmid": "42362866",
+      "title": "Cliramitug for depletion of cardiac amyloid transthyretin: long-term follow-up of the NI006-101 trial.",
+      "journal_abbrev": "Nat Med",
+      "one_line": "长期随访数据显示，Cliramitug可有效降低心脏淀粉样转甲状腺素蛋白，显著改善淀粉样变患者心功能。"
+    },
+    {
+      "pmid": "42362865",
+      "title": "Immersive virtual reality with synchronous neurostimulation for upper-limb recovery after stroke: a randomized feasibility trial.",
+      "journal_abbrev": "Nat Med",
+      "one_line": "随机可行性试验表明，结合同步神经刺激的沉浸式虚拟现实可显著促进卒中后上肢功能恢复。"
+    },
+    {
+      "pmid": "42362864",
+      "title": "Adaptive brain stimulation 2.0 for Parkinsonian gait.",
+      "journal_abbrev": "Nat Med",
+      "one_line": "研究旨在开发并验证闭环自适应脑刺激系统，以实时调节帕金森步态障碍并评估临床改善效果。"
+    },
+    {
+      "pmid": "42362863",
+      "title": "Evaluating the robustness and readiness of large frontier models in health AI applications.",
+      "journal_abbrev": "Nat Med",
+      "one_line": "该研究系统评估前沿大规模语言模型在健康AI场景下的稳健性、偏见及临床部署准备度。"
+    },
+    {
+      "pmid": "42361824",
+      "title": "Daniel Mason: a tale of change.",
+      "journal_abbrev": "Lancet",
+      "one_line": "本文通过讲述外科医师 Daniel Mason 的职业转变，探讨手术技术创新对医师角色与患者安全的深层影响。"
+    },
+    {
+      "pmid": "42361533",
+      "title": "Safe local management of mild traumatic brain injury: Reducing unnecessary transfers to higher-level trauma centers.",
+      "journal_abbrev": "Surgery",
+      "one_line": "评估在基层医院安全处理轻度创伤性脑损伤的方案，以降低不必要的转院并保证患者预后。"
+    },
+    {
+      "pmid": "42360770",
+      "title": "US Food Swamps Have Increased as Food Deserts Remain Static.",
+      "journal_abbrev": "JAMA",
+      "one_line": "通过全国数据分析发现，美国食品沼泽地区扩张而食品荒漠未变，提示环境因素对肥胖流行的关键影响。"
+    },
+    {
+      "pmid": "42360766",
+      "title": "Earlier Egg Introduction Recommendations Linked to Fewer Infant Allergies.",
+      "journal_abbrev": "JAMA",
+      "one_line": "研究表明在4至6个月龄提前引入鸡蛋，可显著降低婴儿食物过敏风险，为更新喂养指南提供依据。"
+    },
+    {
+      "pmid": "42360764",
+      "title": "FDA Approves First New Active Sunscreen Ingredient in Decades.",
+      "journal_abbrev": "JAMA",
+      "one_line": "FDA批准近三十年首个新型防晒活性成分，拓展光谱防护并提升安全边际，为皮肤癌预防提供新选择。"
+    },
+    {
+      "pmid": "42360762",
+      "title": "HHS Says Psychiatric Medications Are Overprescribed, but Are They?",
+      "journal_abbrev": "JAMA",
+      "one_line": "美国卫生与公众服务部报告质疑精神科药物的处方过度，文章综述流行病学数据评估实际使用情况与建议的符合度。"
+    },
+    {
+      "pmid": "42360759",
+      "title": "FDA Approves First Over-the-Counter Continuous Glucose Monitor for Children.",
+      "journal_abbrev": "JAMA",
+      "one_line": "FDA批准首个非处方连续血糖监测设备用于儿童，实现家庭自行监测，提升糖尿病管理的便捷性。"
+    },
+    {
+      "pmid": "42360757",
+      "title": "Ebola May Be Associated With Lasting Neurological Complications.",
+      "journal_abbrev": "JAMA",
+      "one_line": "随访研究发现埃博拉感染后患者出现长期神经系统后遗症，提示需在康复阶段进行神经功能评估。"
+    },
+    {
+      "pmid": "42360724",
+      "title": "PCOS Is Now PMOS-Will a New Name Translate to Improved Clinical Care?",
+      "journal_abbrev": "JAMA",
+      "one_line": "文章探讨多囊卵巢综合征改名至PMOS的潜在意义，评估更名能否提升临床诊疗标准化和患者生活质量。"
+    },
+    {
+      "pmid": "42360718",
+      "title": "Accrediting Bodies to Increase Nutrition Education Requirements.",
+      "journal_abbrev": "JAMA",
+      "one_line": "美国认证机构决定提升医学教育中营养学分要求，以改善医师对患者饮食干预的实践能力。"
+    },
+    {
+      "pmid": "42350644",
+      "title": "Metabolic determinants of cancer immunotherapy outcomes identified by plasma profiling.",
+      "journal_abbrev": "Nat Med",
+      "one_line": "通过血浆代谢谱分析揭示代谢特征可预测免疫治疗效果，为精准选择患者提供新指标。"
+    },
+    {
+      "pmid": "42350643",
+      "title": "Neoadjuvant stereotactic body radiation therapy with durvalumab and oleclumab in ER+HER2- breast cancer: a randomized phase 2 trial.",
+      "journal_abbrev": "Nat Med",
+      "one_line": "研究评估新辅助立体定向体放射联合PD-L1及CD40抑制剂在激素受体阳性HER2阴性乳腺癌的可行性及疗效。"
+    },
+    {
+      "pmid": "42350642",
+      "title": "Teclistamab-based induction treatment in transplant-eligible, newly diagnosed multiple myeloma: a phase 2 trial.",
+      "journal_abbrev": "Nat Med",
+      "one_line": "研究在适合移植的新诊断多发性骨髓瘤患者中使用Teclistamab诱导治疗的安全性及初步疗效。"
+    }
+  ],
+  "monthly_total": 250
+}
